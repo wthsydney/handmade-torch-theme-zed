@@ -1,0 +1,7 @@
+id = "Handmade Torch"
+name = "Handmade Torch theme"
+authors = ["wthsydney <allimperfectlove@proton.me>"]
+version = "1.0.0"
+schema_version = 1
+description = "Zed theme inspired by emacs themes used by Jonathan Blow and Casey Muratori.
+repository = "https://github.com/wthsydney/handmade-torch-theme-zed"
